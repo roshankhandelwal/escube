@@ -1,4 +1,7 @@
 {
   "version": 2,
-  "projects": {}
+  "projects": {
+    "product-list": "apps/product-list",
+    "product-list-e2e": "apps/product-list-e2e"
+  }
 }
